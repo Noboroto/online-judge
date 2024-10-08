@@ -163,8 +163,8 @@
     },
     {
         "fields": {
-            "domain": "localhost:8081",
-            "name": "DMOJ: Modern Online Judge"
+            "domain": "oj.sab.edu.vn",
+            "name": "SABOJ: Modern Online Judge"
         },
         "model": "sites.site",
         "pk": 1
